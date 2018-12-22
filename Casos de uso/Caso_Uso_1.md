@@ -20,10 +20,6 @@
 
 3. El sistema realiza una búsqueda en su base de datos.
 
-**Postcondiciones:**
-
-* El sistema muestra la lista de opciones operativas que son: mostrar, modificar y borrar.
-
 **Flujos Alternativos:**
 
 2.1	Si coinciden los apellidos de dos alumnos, se pide el DNI.
