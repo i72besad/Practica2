@@ -20,6 +20,6 @@ Como usuario quiero poder buscar a un alumno.
 
 * El sistema podrá buscar al alumno según el equipo en el que esté.
 
-* El sistema ,al buscar un alumno o varios, pedirá si se desea mostrarlos, modificarlos, borrarlos o darnos la opción de si no existe, crear uno nuevo.
+* El sistema nos dará la opción de insertar un nuevo alumno si no se encuentra en el sistema.
 
 ---
