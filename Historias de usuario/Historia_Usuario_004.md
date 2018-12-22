@@ -16,6 +16,6 @@ Como usuario quiero poder modificar los datos de un alumno.
 
 * Quiero poder modificar los datos de un alumno.
 
-* El sistema modificará los datos que queramos de un determinado alumno, previamente buscado.
+* El sistema modificará los datos que queramos de un determinado alumno, que será buscado mediante su DNI.
 
 ---
