@@ -16,7 +16,7 @@
 
 1. El caso de uso comienza cuando el sistema necesita insertar un alumno nuevo.
 
-2. El sistema pedirá al usuario que se escriba los campos a introducir.
+2. El sistema pedirá al usuario que escriba los campos a introducir.
 
 **Postcondiciones:**
 
