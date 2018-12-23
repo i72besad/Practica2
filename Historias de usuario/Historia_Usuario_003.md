@@ -14,7 +14,7 @@ Como usuario quiero poder eliminar un alumno.
 
 ## (REVERSO)
 
-* Quiero poder borrar el usuario o usuarios que indique.
+* Quiero poder borrar el usuario que indique.
 
 * El sistema podrá borrar un líder de equipo, dejando a su grupo sin líder hasta que se especifique el nuevo.
 
