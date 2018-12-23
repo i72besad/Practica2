@@ -16,12 +16,9 @@
 
 1. El caso de uso comienza cuando el sistema necesita insertar un alumno nuevo.
 
-2. El sistema pedirá al usuario que se escriban los campos obligatorios de DNI, nombre, apellidos, teléfono, email, dirección, código postal, curso más alto y fecha de nacimiento.
+2. El sistema pedirá al usuario que se escriba los campos a introducir.
 
 **Postcondiciones:**
 
 * El sistema muestra un mensaje de que los campos se han insertado con éxito.
 
-**Flujos Alternativos:**
-
-2.1	Como campos opcionales se podrá insertar el equipo al que pertenece el alumno y si es líder de equipo o no.
